@@ -2,4 +2,41 @@
     <string name="app_name">LanguageKit</string>
     <string name="loading">加载中...</string>
     <string name="close">关闭</string>
+
+
+    <string name="tips_login_overdue">登录失效，请重新登录</string>
+
+    <string name="tips_param_error">参数格式错误</string>
+    <string name="tips_request_error">请求错误</string>
+    <string name="str_connect_exception">网络连接异常，请检查网络</string>
+    <string name="tips_unknown_host_exception">无法解析主机，请检查网络连接</string>
+    <string name="tips_unknown_service_exception">未知的服务器错误</string>
+    <string name="tips_io_exception">没有网络，请检查网络连接</string>
+    <string name="tips_empty_data_exception">返回数据为空</string>
+    <string name="tips_service_inner_error">服务器内部错误</string>
+
+    <string name="error_2001">域不存在</string>
+    <string name="error_2004">域未配置当前第三方登录方式</string>
+    <string name="error_2010">账号不存在</string>
+    <string name="error_2013">用户存在绑定的或者分享中的设备</string>
+    <string name="error_2022">注销账号失败</string>
+    <string name="error_2209">该手机号已被注册</string>
+    <string name="error_2210">邮箱已存在</string>
+    <string name="error_2217">原密码错误</string>
+    <string name="error_2219">密码格式错误</string>
+    <string name="error_2222">openID已经被绑定</string>
+
+    <string name="error_2225">非法账号</string>
+    <string name="error_2226">新老密码相差小于两个字符</string>
+    <string name="error_2228">密码不能与账号或账号倒序相同</string>
+    <string name="error_2230">黑名单用户</string>
+    <string name="error_2232">该用户已绑定手机号</string>
+    <string name="error_2233">手机号已被绑定</string>
+    <string name="error_2236">发送验证码频繁</string>
+    <string name="error_2237">Ip已被锁定，请联系客服进行解锁。</string>
+    <string name="error_1001">参数格式异常</string>
+    <string name="error_500">服务器异常</string>
+    <string name="error_param">参数格式异常</string>
+    <string name="error_6001">验证码校验错误</string>
+
 </resources>
